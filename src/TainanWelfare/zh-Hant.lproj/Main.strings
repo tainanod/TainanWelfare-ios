@@ -1,0 +1,117 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "0M4-HU-5Wd"; */
+"0M4-HU-5Wd.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "列表"; ObjectID = "3H7-YR-2cl"; */
+"3H7-YR-2cl.title" = "列表";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "40d-N6-SW4"; */
+"40d-N6-SW4.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "列表"; ObjectID = "4DB-C4-gOS"; */
+"4DB-C4-gOS.title" = "列表";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4MK-Hq-Zqy"; */
+"4MK-Hq-Zqy.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5cp-cW-UI2"; */
+"5cp-cW-UI2.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "照護"; ObjectID = "8ls-4E-Lo7"; */
+"8ls-4E-Lo7.title" = "照護";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "9YA-9V-G0S"; */
+"9YA-9V-G0S.title" = "返回";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "CbE-qr-0sH"; */
+"CbE-qr-0sH.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "醫療"; ObjectID = "FB5-xU-Muq"; */
+"FB5-xU-Muq.title" = "醫療";
+
+/* Class = "IBUIBarButtonItem"; title = "列表"; ObjectID = "FGC-ve-uKr"; */
+"FGC-ve-uKr.title" = "列表";
+
+/* Class = "IBUITabBarItem"; title = "列表"; ObjectID = "Fv7-Of-fqu"; */
+"Fv7-Of-fqu.title" = "列表";
+
+/* Class = "IBUINavigationItem"; title = "醫療"; ObjectID = "G7d-gO-C8P"; */
+"G7d-gO-C8P.title" = "醫療";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "IPd-ia-hB9"; */
+"IPd-ia-hB9.title" = "返回";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "IdZ-qJ-0jL"; */
+"IdZ-qJ-0jL.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KCo-Z5-Hqd"; */
+"KCo-Z5-Hqd.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "地圖"; ObjectID = "LNC-tq-DaS"; */
+"LNC-tq-DaS.title" = "地圖";
+
+/* Class = "IBUIButton"; normalTitle = "News"; ObjectID = "LiP-yz-euk"; */
+"LiP-yz-euk.normalTitle" = "News";
+
+/* Class = "IBUINavigationItem"; title = "最新消息"; ObjectID = "MFP-wk-Mgb"; */
+"MFP-wk-Mgb.title" = "最新消息";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "PYf-rb-wSn"; */
+"PYf-rb-wSn.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "照護"; ObjectID = "Pgg-hI-FoF"; */
+"Pgg-hI-FoF.normalTitle" = "照護";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "SnP-zv-nGB"; */
+"SnP-zv-nGB.title" = "返回";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "T5j-Yu-RAe"; */
+"T5j-Yu-RAe.title" = "返回";
+
+/* Class = "IBUINavigationItem"; title = "照護"; ObjectID = "Tqg-4G-i5P"; */
+"Tqg-4G-i5P.title" = "照護";
+
+/* Class = "IBUIBarButtonItem"; title = "地圖"; ObjectID = "UDL-Qg-wki"; */
+"UDL-Qg-wki.title" = "地圖";
+
+/* Class = "IBUIBarButtonItem"; title = "地圖"; ObjectID = "W4d-YZ-PQy"; */
+"W4d-YZ-PQy.title" = "地圖";
+
+/* Class = "IBUITabBarItem"; title = "地圖"; ObjectID = "Wcu-t4-0kt"; */
+"Wcu-t4-0kt.title" = "地圖";
+
+/* Class = "IBUIButton"; normalTitle = "貼心"; ObjectID = "Znw-G1-SY1"; */
+"Znw-G1-SY1.normalTitle" = "貼心";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "cFb-Dj-JIs"; */
+"cFb-Dj-JIs.title" = "返回";
+
+/* Class = "IBUIButton"; normalTitle = "醫療"; ObjectID = "dtt-uS-LJ9"; */
+"dtt-uS-LJ9.normalTitle" = "醫療";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "dyC-Bj-OTs"; */
+"dyC-Bj-OTs.title" = "返回";
+
+/* Class = "IBUITabBarItem"; title = "列表"; ObjectID = "fzx-nW-6mf"; */
+"fzx-nW-6mf.title" = "列表";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "if3-sr-eQn"; */
+"if3-sr-eQn.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "地圖"; ObjectID = "oel-so-DBd"; */
+"oel-so-DBd.title" = "地圖";
+
+/* Class = "IBUIBarButtonItem"; title = "列表"; ObjectID = "pV4-FG-0M5"; */
+"pV4-FG-0M5.title" = "列表";
+
+/* Class = "IBUIBarButtonItem"; title = "返回"; ObjectID = "rK1-zT-DQq"; */
+"rK1-zT-DQq.title" = "返回";
+
+/* Class = "IBUINavigationItem"; title = "貼心"; ObjectID = "tT2-53-drp"; */
+"tT2-53-drp.title" = "貼心";
+
+/* Class = "IBUINavigationItem"; title = "貼心"; ObjectID = "tWp-R8-cZD"; */
+"tWp-R8-cZD.title" = "貼心";
+
+/* Class = "IBUITabBarItem"; title = "地圖"; ObjectID = "yif-XR-pqe"; */
+"yif-XR-pqe.title" = "地圖";
